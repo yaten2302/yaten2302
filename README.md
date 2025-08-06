@@ -12,9 +12,6 @@
 
 ### 🚀 What I’m Working On
 
-- ✨ **Google Summer of Code 2025 @ Keploy**  
-  Contributing to Keploy’s blog platform with performance, DX, and UX enhancements
-
 - 📘 **AttendEase** — A full-stack ERP (web portal) for colleges  
   Handles attendance, assignments, results, and seamless student–teacher communication
 

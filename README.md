@@ -9,13 +9,13 @@
 
 🏅 Awarded the **LiFT’25 Scholarship** by the Linux Foundation for commitment to the open-source ecosystem.
 
-📊 Member of the [**OpenTelemetry**](https://github.com/open-telemetry) organization, helping improve observability and shaping the future of telemetry standards.
+📊 Contributing Member of the [**OpenTelemetry**](https://github.com/open-telemetry) organization, helping improve observability and shaping the future of telemetry standards.
 
 ---
 
 ### 🚀 What I’m Working On
 
-- 📘 **AttendEase** — A full-stack ERP (web portal) for colleges
+- 📘 **AttendEase** - A full-stack ERP (web portal) for colleges
   Handles attendance, assignments, results, and seamless student–teacher communication
 
 - 🌍 Actively contributing to open-source & developer tooling projects
@@ -39,4 +39,4 @@
 ---
 
 🧠 *Always curious. Always building. Always open to collaboration.*  
-If you're passionate about open source, distributed systems, or building impactful engineering tools — let's talk!
+If you're passionate about open source, distributed systems, or building impactful engineering tools - let's connect!

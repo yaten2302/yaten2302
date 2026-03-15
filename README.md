@@ -18,17 +18,18 @@ Active in cloud-native communities - Volunteer at **CNCG New Delhi** and **Organ
 ### **OpenTelemetry** - Contributing Member & Code Owner
 📅 Oct 2025 – Present
 
-- Code owner of the **AWS CloudWatch Logs Exporter** in the OpenTelemetry Collector.
-- Fixed a critical `role_arn` regression affecting cross-account AWS deployments, restoring IAM role authentication and **unblocking IBM Software Group’s observability pipeline and release planning**.
-- Contribute through PR reviews, issue triage, and collaboration with maintainers across the OpenTelemetry ecosystem.
+- Contributor to OpenTelemetry and code owner of the AWSCloudWatchLogsExporter, reviewing PRs and maintaining exporter stability.
+- Fixed critical exporter issues affecting cross-account AWS deployments, unblocking enterprise users and improving compatibility across cloud environments.
+- Regularly participate in maintainer discussions, design reviews, and issue triage, contributing to the evolution of OpenTelemetry standards and best practices.
 
 ---
 
 ### **ERP Manthan (VSET)** - Software Engineering Intern
 📅 Jun 2025 – Jul 2025
 
-- Built a **student registration module** for a centralized college ERP platform.
-- Enabled structured storage and management of student records across batches and courses using **React, TypeScript, and JavaScript**.
+- Worked with the ERP Manthan team, a centralized web portal for colleges to manage student records, attendance, faculty data, assignments, and academic operations at a single place.
+- Designed and implemented a student registration module to handle structured storage and retrieval of student data across current and past batches.
+- Collaborated with the ERP team to ensure data validation, clean backend workflows, and maintainable business logic.
 
 ---
 
@@ -50,13 +51,13 @@ Features compressed backups, structured logging, and **pluggable storage backend
 
 # Notable Open Source Contributions
 
-### **OpenTelemetry**
+### [**OpenTelemetry**](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/42541)
 - Fixed a bug removing `role_arn` support in the **awscloudwatchlogs exporter**, restoring IAM role-based authentication and **unblocking IBM Software Group’s production observability pipeline**.
 
-### **Supabase CLI**
+### [**Supabase CLI**](https://github.com/supabase/cli/pull/2996)
 - Added a CLI flag to retrieve the **Postgres database URL via `branches get`**, enabling automated branch preview setup and reducing manual environment configuration in CI/CD pipelines.
 
-### **Taipy**
+### [**Taipy**](https://github.com/Avaiga/taipy/pull/1303)
 - Built a **metrics visualization component** supporting linear, circular, and raw modes with flexible APIs and **90%+ unit test coverage**, and contributed documentation and demos.
 
 ---
